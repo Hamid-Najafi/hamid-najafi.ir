@@ -1,5 +1,6 @@
 /**
-* Template Name: MyResume - v4.9.2
+* Template Name: MyResume
+* Updated: Mar 10 2023 with Bootstrap v5.2.3
 * Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/

@@ -1,5 +1,6 @@
 /**
-* Template Name: MyResume - v4.9.2
+* Template Name: MyResume
+* Updated: Mar 10 2023 with Bootstrap v5.2.3
 * Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
@@ -90,18 +91,7 @@ h6 {
   border-radius: 50%;
   width: 60px;
   height: 60px;
-  -webkit-animation: animate-preloader 1s linear infinite;
   animation: animate-preloader 1s linear infinite;
-}
-
-@-webkit-keyframes animate-preloader {
-  0% {
-    transform: rotate(0deg);
-  }
-
-  100% {
-    transform: rotate(360deg);
-  }
 }
 
 @keyframes animate-preloader {
@@ -1116,7 +1106,6 @@ section {
   margin: 0 10px -6px 0;
   border: 3px solid #18d26e;
   border-top-color: #eee;
-  -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
 }
 
@@ -1146,16 +1135,6 @@ section {
 
 .contact .php-email-form button[type=submit]:hover {
   background: #0678e3;
-}
-
-@-webkit-keyframes animate-loading {
-  0% {
-    transform: rotate(0deg);
-  }
-
-  100% {
-    transform: rotate(360deg);
-  }
 }
 
 @keyframes animate-loading {
